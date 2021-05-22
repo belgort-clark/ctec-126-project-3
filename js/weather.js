@@ -21,7 +21,7 @@ function getCurrentWeather(data,zipCode){
     weatherContent.style.display = 'block'
 }
 
-function getWeatherForecase(data,zipCode){
+function getWeatherForecast(data,zipCode){
     // your code goes here
 }
 
