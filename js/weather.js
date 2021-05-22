@@ -27,7 +27,7 @@ function getWeatherForecase(data,zipCode){
 
 // Declare Variables
 const weatherContent = document.querySelector('#weather')
-const API_KEY = 'f584ca55f45e5358b33b0b8269934b80' // Bruce's API key. Replace this with your own
+const API_KEY = 'YOUR OPENWEATHERAPI API TOKEN' // Replace this with your own
 
 document.querySelector('#getWeather').addEventListener('click', function () {
     weatherContent.innerHTML = '' // clear out prior results
