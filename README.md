@@ -21,7 +21,7 @@ This assignment will have you complete the 'Current Forecast' code and also add 
 
 ## Things you need to do
 
-- Review the weather.js code that has been provided. The code for the getWeatherForecast function is complete and works.
+- Review the weather.js code that has been provided. The code for the getCurrentWeather() function is complete and works.
 - You must comment all of the JavaScript code that you develop.
 - You should also use it to help you develop code for the getWeatherForecast() function.
 - You are to develop additional code to show data for the current weather and the forecasted weather to include the following data:
@@ -31,7 +31,7 @@ This assignment will have you complete the 'Current Forecast' code and also add 
   - Feels Like
   - Wind Speed
 - A second <button> must be added for the 5 day forecast and its listener must call the getWeatherForecast() function. Again, this code will be very similar to the code provided for the current weather.
-- You must also add 2 other data points of your choice
+- You must also add 2 other data points of your choice to both the getCurrentWeather() and getWeatherForecast() functions.
 - Change the CSS to make the page more visually appealing
 
 ## Submission
