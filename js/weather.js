@@ -9,7 +9,7 @@ function getCurrentWeather(data,zipCode){
     }
 
     let p = document.createElement('p') // create a p element
-    let date = new Date(data.dt)
+    let date = new Date(data.dt * 1000)
     let dateStr = date.toLocaleDateString('en-us')
     let timeStr = date.toLocaleTimeString('en-us')
 
